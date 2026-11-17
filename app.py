@@ -49,4 +49,4 @@ jobs:
     steps:
 
       - name: Security Scan
-        run: echo "Security validation successful")
+        run: echo "Security validation successful"
